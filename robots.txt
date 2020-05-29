@@ -1,1 +1,1 @@
-Sitemap: https://shireexue.github.io/common-ground/sitemap.xml
+Sitemap: https://shireexue.github.io/blog-common-ground/sitemap.xml
